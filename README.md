@@ -122,7 +122,7 @@ Apache Maven
 Git
 
 🔹 Steps to Run
-git clone <your-github-repository-url>
+git clone git@github.com:shudhanshu002/Devops_project.git
 cd personal-expense-tracker
 mvn clean install
 mvn exec:java
@@ -167,14 +167,9 @@ CI/CD pipeline using GitHub Actions or Jenkins
 
 👨‍💻 Author
 
-Aryapratik Das
+Sudhanshu kumar singh
 B.Tech CSE Student
 
 📜 License
 
 This project is developed for academic and learning purposes.
-
-✅ GitHub Commit Tip
-git add README.md
-git commit -m "Added project README with DevOps tools and architecture"
-git push
